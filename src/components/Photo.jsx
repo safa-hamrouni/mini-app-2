@@ -2,8 +2,8 @@ import React from "react";
 
 var Photo = () => {
   return (
-    <div className="image">
-      <img src="/photo1.png" />
+    <div>
+      <img src="/photo1.png" className="image" />
     </div>
   );
 };

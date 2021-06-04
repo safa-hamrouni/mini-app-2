@@ -1,9 +1,9 @@
 import React from "react";
-import Header from "./components/Header.jsx";
-import Photo from "./components/Photo.jsx";
-import Recipe from "./components/Recipe.jsx";
-import Instructions from "./components/Instructions.jsx";
-import "./style.css";
+import Header from "./Header.jsx";
+import Photo from "./Photo.jsx";
+import Recipe from "./Recipe.jsx";
+import Instructions from "./Instructions.jsx";
+import "../index.css";
 
 class App extends React.Component {
   constructor() {

@@ -1,0 +1,20 @@
+.app {
+  margin-left: 20%;
+}
+
+.image {
+  width: 1000px;
+}
+.lists {
+  list-style: none;
+}
+.box {
+  float: right;
+  margin-right: 35%;
+  margin-bottom: 10%;
+  width: 20%;
+  height: 350px;
+  border: 2px white solid;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px grey;
+}
